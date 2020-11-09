@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Keywords:
-Javascript | React | VUE | Amber | RxJS | Redux
-UIOps | UI automation | Design-to-Code | Scalable front-end architecture
-Go | Python | Cloud Native | Kubernetes | AWS | GCP
+Keywords
+Javascript | React | VUE | Amber | RxJS | Redux  
+UIOps | UI automation | Design-to-Code | Scalable front-end architecture  
+Go | Python | Cloud Native | Kubernetes | AWS | GCP  
 
 <!--
 **abdvl/abdvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
