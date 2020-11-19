@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Keywords
-Javascript | React | VUE | Amber | RxJS | Redux  
+Javascript | React | VUE | Ember | RxJS | Redux  
 UIOps | UI automation | Design-to-Code | Scalable front-end architecture  
 Go | Python | Cloud Native | Kubernetes | AWS | GCP  
 
